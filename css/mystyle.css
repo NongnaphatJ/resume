@@ -1,0 +1,71 @@
+.wallpaper{
+  position: relative;
+  background-color: #EDD38F;
+  background: linear-gradient(to right, rgba(255,0,0,0),rgba(0,0,0,0.7)),url('../images/profile1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+}
+.wallpaper2{
+  background-color: #EDD38F;
+  background: linear-gradient(rgba(255,255,0,0),rgba(0,0,0,0.7)),url('../images/profile2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.wallpaper3{
+  background: url('../images/career objective.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.border{
+  border-style: solid;
+}
+.text {
+  position: absolute;
+  right: 150px;
+}
+.text2 {
+  position: absolute;
+  left: 75px;
+}
+.text-wrapper{
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+  margin: 2rem;
+}
+.text-wrapper2{
+  background-color: #EDD38F;  
+}
+.background-text{
+  background-color: #31A8FF;  
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+}
+.h2{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: white;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
