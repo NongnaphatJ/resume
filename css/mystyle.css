@@ -5,7 +5,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 80vh;
+  height: 70vh;
 }
 .wallpaper2{
   background-color: #EDD38F;
@@ -13,7 +13,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 80vh;
 }
 .wallpaper3{
   background: url('../images/career objective.jpg');
@@ -26,16 +26,11 @@
 }
 .text {
   position: absolute;
-  right: 150px;
+  right: 40px;
 }
 .text2 {
   position: absolute;
-  left: 75px;
-}
-.text-wrapper{
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 2rem;
-  margin: 2rem;
+  left: 30px;
 }
 .text-wrapper2{
   background-color: #EDD38F;  
@@ -46,19 +41,19 @@
 h1{
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  font-size: 40px;
+  font-size: 50px;
   color: white;
 }
 .h2{
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 20px;
-  color: white;
+  color: black;
 }
 .p{
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
-  color: white;
+  color: black;
 }
 h2{
   font-family: 'Roboto', sans-serif;
